@@ -1,1 +1,1 @@
-# CMP1001-Maze-game
+# CMP1001 - Maze Game
